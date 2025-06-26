@@ -1,4 +1,4 @@
-# Live App: https://himovies-smoky.vercel.app/
+# Live App: [https://himovies-smoky.vercel.app/](https://himovies.onrender.com/)
 # 🎬 HiMovies
 
 HiMovies is a web application built for streaming movies and TV shows online. The platform allows users to search, explore, and stream popular titles seamlessly. The project is under active development and will continue to be updated with new features, design improvements, and performance enhancements.
